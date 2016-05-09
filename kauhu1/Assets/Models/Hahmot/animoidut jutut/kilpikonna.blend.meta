@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: f5b4c81774a6fe44092a33b2efb5d2f4
+timeCreated: 1462778705
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone_001
+    100004: Bone_002
+    100006: Bone_003
+    100008: Bone_004
+    100010: Bone_007
+    100012: Bone_008
+    100014: Bone_011
+    100016: Bone_012
+    100018: Cylinder
+    100020: keski
+    100022: //RootNode
+    100024: oikeaetu
+    100026: oikeaetu_001
+    100028: oikeaetu_002
+    100030: oikeaetu_003
+    100032: oikeataka
+    100034: oikeataka_001
+    100036: oikeataka_002
+    100038: oikeataka_003
+    100040: p__
+    100042: p__p__
+    100044: vasenetu
+    100046: vasenetu_001
+    100048: vasenetu_002
+    100050: vasenetu_003
+    100052: vasentaka
+    100054: vasentaka_001
+    100056: vasentaka_002
+    100058: vasentaka_003
+    400000: Armature
+    400002: Bone_001
+    400004: Bone_002
+    400006: Bone_003
+    400008: Bone_004
+    400010: Bone_007
+    400012: Bone_008
+    400014: Bone_011
+    400016: Bone_012
+    400018: Cylinder
+    400020: keski
+    400022: //RootNode
+    400024: oikeaetu
+    400026: oikeaetu_001
+    400028: oikeaetu_002
+    400030: oikeaetu_003
+    400032: oikeataka
+    400034: oikeataka_001
+    400036: oikeataka_002
+    400038: oikeataka_003
+    400040: p__
+    400042: p__p__
+    400044: vasenetu
+    400046: vasenetu_001
+    400048: vasenetu_002
+    400050: vasenetu_003
+    400052: vasentaka
+    400054: vasentaka_001
+    400056: vasentaka_002
+    400058: vasentaka_003
+    4300000: Cylinder
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Cylinder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
